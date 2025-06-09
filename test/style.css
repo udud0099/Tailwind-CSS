@@ -1,0 +1,24 @@
+
+
+
+a{
+    justify-content: space-between;
+    align-items: unset;
+    flex-direction: column-reverse;
+    align-items: stretch;
+
+
+    justify-content:  space-between;
+flex-wrap:wrap;
+flex-direction: column-reverse;
+ 
+align-items: flex-end;
+align-self: ;
+
+
+
+ justify-content:  center;
+align-self: initial;
+align-content:center center;
+
+}
